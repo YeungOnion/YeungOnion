@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YeungOnion, my name is Orion Yeung
+- 👋 Hi, I’m @YeungOnion, my name is Orion Yeung, I use he/him pronouns
 - 👀 I’m interested in physics and high performance computing to support scientific advances. 
 - 🌱 I’m currently learning the ropes for DevOps in performance distributed computing as well as a few languages that are fun and may be useful for developing tooling that supports researcher use cases
   - go, for [bubble tea](https://github.com/charmbracelet/bubbletea)
